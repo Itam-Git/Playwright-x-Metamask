@@ -1,0 +1,21 @@
+{
+  "name": "playwright-x-metamask",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "playwright": "^1.44.1"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.44.1"
+  },
+  "directories": {
+    "test": "tests"
+  }
+}
